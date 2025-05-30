@@ -1,4 +1,4 @@
-# shift-scheduling-optimization
+# 🧮 Workforce Scheduling Optimization Using Simulated Annealing
 A project from Math Modeling Competition 2024
 
 This repository contains our project for the 2024 Mathematical Modeling Contest, developed by team **DK Algebros**. The project addresses the employee shift scheduling problem using the **Simulated Annealing** algorithm to find an optimized work schedule under multiple real-world constraints.
